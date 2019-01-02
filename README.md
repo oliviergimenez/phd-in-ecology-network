@@ -1,13 +1,4 @@
-+++
-date = "2019-01-02"
-draft = false
-tags = ["network", "ecology", "tidyverse", "rstats"]
-title = "Scientific research is all about networking"
-math = true
-summary = """
-"""
-
-+++
+# Scientific research is all about networking
 
 I read [this awesome post](http://coulmont.com/blog/2018/12/02/sociologue-reseau-theses-2018/) (in French) by [Baptiste Coulmont](http://coulmont.com/), professor in sociology, who explored the French academic network in sociology. Coulmont used the composition of PhD commitees to determine academic links between colleagues. The approach very appealing because it uses public data available from the website [these.fr](www.these.fr). Here, I used Coulmont's `R` code to produce the French academic network in ecology. This was a nice opportunity to illustrate how to work in the `tidyverse` and to do some [web scraping](https://en.wikipedia.org/wiki/Web_scraping) using the `rvest` package.
 
