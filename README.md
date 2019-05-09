@@ -196,7 +196,7 @@ colleagues who were part of several phD commitees.
             text=element_text(size=16,family="Helvetica"),
             plot.margin = unit(c(0.2, 0.2, 0.2, 0.2), units="line"))
 
-![](/img/ecolnetwork.png)<!-- -->
+![](https://github.com/oliviergimenez/phd-in-ecology-network/blob/master/network_of_ecologists.png)<!-- -->
 
     # save
     ggsave(filename = "ecology_network.pdf",width=30,height = 20)
